@@ -1,0 +1,7 @@
+﻿sagemaker
+spacy
+pymongo
+openpyxl
+flask_cors
+pypdf
+python-docx
